@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="to.dev.example.MainAppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-02T05:12:28" hostname="ChristophersMBP.modem" time="0.039">
+  <properties/>
+  <testcase name="Given value a and value b, When ADD is called, Then a combination of the two values should be returned()" classname="to.dev.example.MainAppTest" time="0.039"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
